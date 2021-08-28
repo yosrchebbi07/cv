@@ -1,0 +1,316 @@
+<html> 
+    <head> 
+            <title>Resume website templates </title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet"
+        href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js">
+        </script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js">
+        </script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js">
+        </script>
+        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    </head>
+    <body> 
+
+        <!----------- Header section -----------> 
+        <section id="header">
+            <div class="container text-center">
+                <div class="user-box">
+                    <img src="img/240732493_4639254676085837_8309612654722910867_n_adobespark.png">
+                    <h1>IBRAHIM DOGHRI</h1>
+                    <p>Freelance front end Developer <br> & programmer</p>
+                </div>
+            </div>
+            <div class="scroll-btn">
+                <div class="scroll-bar"><a href="#about"><span> </span></a> </div>
+            </div>
+        </section>
+<!----------- user-info section ----------->
+
+<section id="user-info">
+
+<div class="nav-bar">
+<nav class="navbar navbar-expand-lg">
+  <a class="navbar-brand" href="#"><img src="img/1 (2).png"></a>
+  <button class="navbar-toggler" type="button"data-toggle="collapse"
+data-target="#navbarNav" aria-controls="navbarNav"
+aria-expanded="false" aria-label="Toggle navigation">
+  <i class="fa fa-bars"></i>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item ">
+        <a class="nav-link" href="#top">HOME</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#about">ABOUT ME</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#resume">RESUME</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#skill">SKILLS</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#contact">CONTACT</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+</div>
+
+<!----------- About -----------> 
+<div class="about container" id="about"> 
+<div class="row">
+ <div class="col-md-6  text-center">
+<img src="img/Untitled design.jpg" class="profile-img" >
+ </div>  
+<div class="col-md-6"> 
+<h3><center>WHO AM I ? </center></h3>
+<p style="text-align: right;"><center>An undergraduate who is intrigued by technology and arts, passionate about programming and computer science <br>interested in production and poetry.
+    Has a scientific mindset and spirit which ties in perfectly with his career choice.</center></p>
+
+
+
+
+ <div    class="skills-bar">
+     <p> FRENCH </p>
+     <div class="progress"> 
+     <div class="progress-bar" style="width: 60%;"> 60%</div>
+     </div>
+
+     <p> ENGLISH </p>
+     <div class="progress"> 
+     <div class="progress-bar" style="width: 80%;"> 80%</div>
+     </div>
+
+     <p> GERMAN </p>
+     <div class="progress"> 
+     <div class="progress-bar" style="width: 40%;"> 40%</div>
+     </div>
+
+</div>
+ </div>
+</div>
+</div>
+</div>
+
+<!------------------------social icons------------------------------>
+<div class="social-icons">
+
+<ul>
+<a href="https://www.linkedin.com/in/ibrahimdoghri/"><li> <i class="fa fa-linkedin"></i></li> </a>
+<a href="https://github.com/arfizato"><li> <i class="fa fa-github"></i></li> </a>
+<a href="https://www.facebook.com/Arfizato"><li> <i class="fa fa-facebook"></i></li> </a>
+    </ul>
+</div>
+
+
+<!-----------------resume--------------------->
+<div class="resume" id="resume">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <h3 class="text-center">My Experiences</h3>
+                <ul class="timeline">
+
+                    <li>
+                        <h4><span> JUN 2018 - 31 JUL 2018 </span> INVENTORY CONTROLLER | SAM</h4>
+                        <p>Got a summer job at a car sales and repair company where <br>i worked in intventory preparing orders for clients and/or mechanics
+                        </p>
+                        <b> duration </b> - 1 month, 17 days <br>
+                    </li>
+
+                    <li>
+                        <h4><span>1 AUG 2018 - Current </span>PRODUCER | INTERFERENCE</h4>
+                        <p>My first experience in light art, and I've never stopped since. Member of a 
+                            production team taking care of every technical aspect behind the<br>great artworks displayed and also work from behind the scene like 
+                            organizing the materials and the inventory.  <a href="https://intunis.net/ibrahim-doghri/"> (Click The Link)</a> 
+                        </p>
+                        <b> duration </b> - Current <br>
+                    </li>
+
+
+                    <li>
+                        <h4><span>24 DEC 2018 - 30 DEC 2018</span>  INVENTORY CLERK | SAM</h4>
+                        <p>Took part of an annual event where we organize the
+                            company's inventory recount and make suregreat artworks displayed and also work from behind the scene like 
+                            organizing the <br>materials and the inventory.
+                        </p>
+                        <b> duration </b> - 7 days<br>
+                    </li>
+
+                    
+                    <li>
+                        <h4><span>2019</span> COACH | VELORUTION</h4>
+                        <p>One of many coaches teaching newcomers how to ride bicycles as a participation of the  vélo école project
+                        </p>
+                        <b> duration </b> - <br>
+                    </li>
+
+                    <li>
+                        <h4><span>1 AUG 2019 - 1 SEP 2019</span> PRODUCER | SEE DJERBA</h4>
+                        <p>Leading producer for a group of artists taking care of all their technical needs and installing everything on site
+                        </p>
+                        <b> duration </b> - 1 month, 1 day <br>
+                    </li>
+
+                    <li>
+                        <h4><span>SEP 2019 </span>PRODUCER | AFTER SIGHTLINES </h4>
+                        <p>Sole producer for an art exhibition with Robert Sochack . <a href="https://www.facebook.com/sochacki.robert/posts/10158924753061562">(LINK to the Facebook post)</a>
+                        </p>
+                        <b> duration </b> - 1 month<br>
+                    </li>
+
+
+                    <li>
+                        <h4><span>1 OCT 2019 - 13 OCT 2019</span> IT | DREAMCITY</h4>
+                        <p>Worked on the ticketing system and website from behind the scenes for DREAMCITY
+                        </p>
+                        <b> duration </b> - 13 days<br>
+                    </li>
+
+                    
+
+                    <li>
+                        <h4><span>1 SEP 2020 - 7 OCT 2020</span> PRODUCER | DIGITAL SHIFT</h4>
+                        <p>worked as a technical assistant and producer for all the artists involved alongside a couple of other people. We took care of every technical aspect and detail needed for the exhibition
+                        </p>
+                        <b> duration </b> - 1 month, 7 days<br>
+                    </li>
+
+                    <li>
+                        <h4><span>21 DEC 2020 - 27 DEC 2020</span>  INVENTORY CLERK | SAM</h4>
+                        <p>Took part of an annual event where we organize the company'sinventory recount and make sure everything is in place an the system is in sync with what's going on in real life
+
+                        </p>
+                        <b> duration </b> - 7 days<br>
+                    </li>
+
+
+                    <li>
+                        <h4><span>MAR 2021</span> MARKETING DEPARTMENT | AIESEC</h4>
+                        <p>Working in the Marketing Department. Part of the Event organizing Team
+
+                        </p>
+                        <b> duration </b> - current<br>
+                    </li>
+
+
+                    <li>
+                        <h4><span>2 APR 2021</span>  TEAM MANAGER | BOUBLI</h4>
+                        <p>Working as a community manager and learning how to become a data analyst.
+                        </p>
+                        <b> duration </b> - current <br>
+                    </li>
+
+<li>
+                        <h4><span>20 APR 2021</span> Frontend / Full-stack Developer | LST AIESEC</h4>
+                        <p>Lucky to have made it through the recruitment process. This is my first and hopefully not my last experience in Web Development.
+                        </p>
+                        <b> duration </b> - current<br>
+                    </li>
+
+            </div>
+        </div>
+    </div>
+
+
+
+<div class="col-md-6">
+    <h3 class="text-center">My Education</h3>
+    <ul class="timeline">
+
+        <li>
+            <h4><span> 2019 - 2020 </span> Bachelor of Computer Science</h4>
+            <p> "Rue De Russie" High School </p>
+            <b> duration </b> - 1 year<br>
+        </li>
+
+
+        <li>
+            <h4><span> 2020 - Current </span> Undergrad in Computer Science</h4>
+            <p>ISAMM Higher Institute of Arts and Multimedia Manouba</p>
+            <b> duration </b> - current<br>
+        </li>
+    </ul>
+
+</div>
+
+        <!-----------------skills--------------------->
+<div class="skill" id="skill">
+    <div class="container">
+        <h1 class="text-center">My Skills</h1>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="skill-box">
+                  <i class="fa fa-laptop"t></i><span> DIGITAL </span>
+                <p>Microsoft Office / Social Media / Tech savvy</p>
+                </div>
+            </div>
+
+
+            <div class="col-md-4">
+                <div class="skill-box">
+                  <i class="fa fa-user"></i><span> PERSONALITY </span>
+                <p>Reliable / Team-work oriented / Detail-Oriented / Responsible / Critical thinking / Curious</p>
+                </div>
+            </div>
+
+
+
+            <div class="col-md-4">
+                <div class="skill-box">
+                    <i class="fa fa-flash"></i><span> PHYSICAL </span>
+                <p>Cyclist / Intermediate Climber</p>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+</div>
+
+<!--------------contact------------->
+<div class="contact" id="contact">
+    <div class="container text-center">
+        <h1>Contact Me</h1>
+        <div class="row"> 
+            <div class="col-md-4">
+                <i class="fa fa-phone"></i>
+                <p>(+216) 99 352 691</p>
+            </div>  
+            <div class="col-md-4">
+                <a href="ibrahimdoghri.tn@gmail.com"><i class="fa fa-envelope"></i></a> 
+                <p><a href="ibrahimdoghri.tn@gmail.com">ibrahimdoghri.tn@gmail.com</a> </p>
+            </div>  
+            <div class="col-md-4">
+               <a href="https://unsplash.com/s/photos/smart-man"><i class="fa fa-globe"></i></a>
+                <p><a href="https://unsplash.com/s/photos/smart-man">www.website.com</a></p>
+            </div>  
+        </div>
+<button type="button" class="btn btn-primary"><a href="https://ibrahimd-cv.netlify.app/external/Resume.pdf" download><i class="fa fa-download">
+</i>Resume</button></a>
+<button type="button" class="btn btn-primary"><a href=https://www.facebook.com/messages/t/100005591775780><i class="fa fa-ticket">
+</i>Hire me</button></a>
+<button type="button" class="btn btn-primary"><a href=https://ibrahimd-cv.netlify.app/external/Resume.pdf><i class="fa fa-address-card-o">
+</i></a><a href=https://ibrahimd-cv.netlify.app/external/Resume.pdf>Europass CV</a></button>
+    </div>
+
+<div class="footer text-center">
+  <p>Made with <i class="fa fa-heart"></i> by Rosy </p>  
+</div>
+</div>
+</section> 
+
+
+<!----------------smooth scroll------------------------>
+<script src="smooth-scroll.js"> </script>
+<script>
+	var scroll = new SmoothScroll('a[href*="#"]');
+</script>
+
+    </body>
+</html>
